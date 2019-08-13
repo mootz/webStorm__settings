@@ -1,0 +1,8 @@
+<templateSet group="Zen CSS">
+  <template name="m" value="margin: $END$;" shortcut="NONE" description="margin:...;" toReformat="true" toShortenFQNames="true">
+    <context />
+  </template>
+  <template name="ff" value="font-family: " shortcut="NONE" description="font-family:...;" toReformat="true" toShortenFQNames="true">
+    <context />
+  </template>
+</templateSet>
