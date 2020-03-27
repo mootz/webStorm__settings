@@ -1,9 +1,11 @@
 <application>
   <component name="MaterialThemeConfig">
+    <option name="isContrastMode" value="true" />
+    <option name="isHighContrast" value="true" />
     <option name="isWizardShown" value="true" />
     <option name="overrideAccentColor" value="false" />
     <option name="pristineConfig" value="false" />
-    <option name="settingsSelectedTab" value="4" />
+    <option name="settingsSelectedTab" value="6" />
     <option name="selectedTheme" value="PALENIGHT" />
     <option name="userId" value="4bef86ed:16cb347d5c7:-8000" />
     <option name="version" value="4.11.5" />
