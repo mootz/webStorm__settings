@@ -1,4 +1,8 @@
 <code_scheme name="Default" version="173">
+  <codeStyleSettings language="JavaScript">
+    <option name="RIGHT_MARGIN" value="0" />
+    <option name="WRAP_ON_TYPING" value="0" />
+  </codeStyleSettings>
   <codeStyleSettings language="SASS">
     <indentOptions>
       <option name="INDENT_SIZE" value="4" />
