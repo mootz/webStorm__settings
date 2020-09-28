@@ -1,5 +1,6 @@
 <application>
   <component name="CssEmmetOptions">
+    <option name="cssEmmetEnabled" value="false" />
     <option name="fuzzySearchEnabled" value="true" />
   </component>
   <component name="EmmetOptions">
