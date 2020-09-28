@@ -1,0 +1,5 @@
+<application>
+  <component name="IntentionManagerSettings">
+    <ignoreAction name="CSS/Replace var(...) with its fallback value" />
+  </component>
+</application>
