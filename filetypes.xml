@@ -5,6 +5,7 @@
       <mapping ext="ng" type="HTML" />
       <mapping pattern="contract-list-page.js" type="PLAIN_TEXT" />
       <mapping ext="tpl" type="PLAIN_TEXT" />
+      <mapping ext="dll" type="PLAIN_TEXT" />
       <mapping pattern="tsconfig.e2e.json" type="tsconfig" />
       <mapping pattern="tsconfig.spec.json" type="tsconfig" />
       <mapping pattern="tsconfig.app.json" type="tsconfig" />
