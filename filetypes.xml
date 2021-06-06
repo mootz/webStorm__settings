@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
+      <mapping pattern="index" type="AUTO_DETECTED" />
       <mapping pattern="contract-list-page" type="ECMAScript 6" />
       <mapping ext="ng" type="HTML" />
       <mapping pattern="contract-list-page.js" type="PLAIN_TEXT" />
