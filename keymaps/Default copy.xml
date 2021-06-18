@@ -1,4 +1,6 @@
 <keymap version="1" name="Default copy" parent="$default">
+  <action id="Arrangement.Rule.Edit" />
+  <action id="ChangesView.Rename" />
   <action id="CommentByBlockComment">
     <keyboard-shortcut first-keystroke="shift ctrl slash" />
     <keyboard-shortcut first-keystroke="shift ctrl divide" />
@@ -12,13 +14,27 @@
   <action id="EmmetUpdateTag">
     <keyboard-shortcut first-keystroke="shift alt quote" />
   </action>
+  <action id="Git.Rename.Local.Branch" />
+  <action id="Git.Reword.Commit" />
+  <action id="GotoNextError" />
+  <action id="GotoPreviousError" />
   <action id="GotoTest" />
+  <action id="RenameElement">
+    <keyboard-shortcut first-keystroke="shift f6" />
+    <keyboard-shortcut first-keystroke="shift f2" />
+  </action>
+  <action id="RenameFile">
+    <keyboard-shortcut first-keystroke="f2" />
+  </action>
   <action id="ReopenClosedTab">
     <keyboard-shortcut first-keystroke="shift ctrl t" />
   </action>
   <action id="ServiceView.ShowServices" />
+  <action id="ShelvedChanges.Rename" />
   <action id="SurroundWith" />
   <action id="SurroundWithEmmet">
     <keyboard-shortcut first-keystroke="ctrl alt t" />
   </action>
+  <action id="XDebugger.EditWatch" />
+  <action id="XDebugger.SetValue" />
 </keymap>
