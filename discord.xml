@@ -6,20 +6,20 @@
     <option name="applicationStateCustom" value="" />
     <option name="applicationIconLargeText" value="APPLICATION_NAME" />
     <option name="applicationIconLargeTextCustom" value="" />
-    <option name="applicationIconSmall" value="APPLICATION" />
     <option name="applicationIconSmallTextCustom" value="" />
     <option name="projectDetails" value="NONE" />
     <option name="projectDetailsCustom" value="" />
     <option name="projectStateCustom" value="" />
     <option name="projectIconLargeTextCustom" value="" />
     <option name="projectIconSmallTextCustom" value="" />
-    <option name="fileDetails" value="NONE" />
+    <option name="fileDetails" value="FILE_LANGUAGE" />
     <option name="fileDetailsCustom" value="" />
     <option name="fileStateCustom" value="" />
     <option name="fileIconLarge" value="APPLICATION" />
     <option name="fileIconLargeTextCustom" value="" />
+    <option name="fileIconSmall" value="FILE" />
     <option name="fileIconSmallTextCustom" value="" />
-    <option name="theme" value="flat" />
+    <option name="theme" value="classic" />
     <option name="applicationLastUpdateNotification" value="1.6.1" />
   </component>
 </application>
